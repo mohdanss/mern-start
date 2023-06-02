@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "description": "R - (reactjs) client side",
   "author": "Muhammad Ans",
   "private": true,
   "dependencies": {
